@@ -12,7 +12,6 @@ public class CalculatorTest {
         long sucet = calculator.scitaj(5, 4);
 
         Assert.assertEquals(9, sucet);
-        System.out.println(Integer.MAX_VALUE);
     }
 
     @Test
